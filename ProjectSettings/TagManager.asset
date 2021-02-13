@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Enemy
+  - heart
+  - sword
+  - Enemy 2
+  - Enemy 3
+  - Enemy 4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 2227763763
+    locked: 0
+  - name: Enemy 2
+    uniqueID: 2045682429
+    locked: 0
+  - name: Enemy 3
+    uniqueID: 1473182607
+    locked: 0
+  - name: Enemy 4
+    uniqueID: 2517127621
+    locked: 0
